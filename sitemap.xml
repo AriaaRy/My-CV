@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 	<url>
 		<loc>
-			https://ariary.ir/pages/contact.html
-		</loc>
-	</url>
-	<url>
-		<loc>
-			https://ariary.ir/pages/projects-no-images.html
+			https://ariary.ir/contact.html
 		</loc>
 	</url>
 	<url>
 		<loc>
 			https://ariary.ir/index.html
+		</loc>
+	</url>
+	<url>
+		<loc>
+			https://ariary.ir/projects-no-images.html
 		</loc>
 	</url>
 </urlset>

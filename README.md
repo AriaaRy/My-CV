@@ -8,5 +8,7 @@ My Course of Life, a **Responsive** and Creative website about me and contains m
 * HTML
 * CSS
 * JavaScript
+* Bootstrap 4.3
+* jQuery 3.4.1
 
 You can see the result on my **[Personal Website](https://ariary.ir)**.

@@ -1,0 +1,19 @@
+{
+    "short_name": "Aria",
+    "name": "Aria Rahmaty",
+    "icons": [{
+            "src": "/assets/img/icons/192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/assets/img/icons/512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "/index.html",
+    "background_color": "rgba(255,255,255,0)",
+    "theme_color": "#5482f9",
+    "display": "fullscreen"
+}

@@ -11,4 +11,4 @@ My Course of Life, a **Responsive** and Creative website about me and contains m
 * Bootstrap 4.3
 * jQuery 3.4.1
 
-You can see the result on my **[Personal Website](https://ariary.ir)**.
+You can see the result on my **[Personal Website](https://ariary.ir)** or on **[ariaary.github.io/my-cv](https://ariaary.github.io/My-CV/)**
